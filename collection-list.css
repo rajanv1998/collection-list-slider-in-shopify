@@ -1,0 +1,38 @@
+.section-heading  h2 {
+    margin-bottom: 10px;
+}
+.allcollection_slider {
+    margin: 0 20px;
+    padding: 1em 0 3em;
+}
+.allcollection_slider .page-width {
+    max-width: 1500px;
+}
+.allcollection_slider .section-heading {
+    margin-bottom: 35px;
+}
+.allcollection_slider .collection_name {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+.allcollection_slider .collection_name h4 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.allcollection_slider .collection_feature_img {
+  position: relative;
+  width: 100%;
+  padding-top: 100%; 
+}
+
+.allcollection_slider .collection_feature_img img {
+    display: block;
+  	position: absolute;
+    top: 0;
+    height: 100%;
+}
